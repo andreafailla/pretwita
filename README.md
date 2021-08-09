@@ -22,9 +22,13 @@
 - tokenization
 
 ## Installing PreTwITA
-You can install PreTwITA via pip
+You can install PreTwITA via <code>pip</code>:
 <br>
-<code>python -m pip install pretwita</code>
+<code>$python -m pip install pretwita</code>
+<br>
+Otherwise, clone this repository if you want to be sure to get the latest updates: <br>
+<code>$git clone https://github.com/andreafailla/pretwita.git</code>
+
 
 ## Usage
 For usage and tips, please refer to the <code>demo.ipynb</code> file
