@@ -21,5 +21,10 @@
 - remove multiple spaces 
 - tokenization
 
+## Installing PreTwITA
+You can install PreTwITA via pip
+<br>
+<code>python -m pip install pretwita</code>
+
 ## Usage
 For usage and tips, please refer to the <code>demo.ipynb</code> file
