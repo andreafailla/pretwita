@@ -25,10 +25,10 @@
 You can install PreTwITA via <code>pip</code>:
 <br>
 <code>$python -m pip install pretwita</code>
+<br><br>
+Otherwise, use <code>git</code> if you want to be sure to get the latest updates: <br>
+<code>$pip install git+https://github.com/andreafailla/pretwita.git</code>
 <br>
-Otherwise, clone this repository if you want to be sure to get the latest updates: <br>
-<code>$git clone https://github.com/andreafailla/pretwita.git</code>
-
 
 ## Usage
 For usage and tips, please refer to the <code>demo.ipynb</code> file
