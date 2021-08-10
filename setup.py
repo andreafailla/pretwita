@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="pretwita",
-    version="0.1",
+    version="0.1.1",
     author="Andrea Failla",
     author_email="andrea.failla.ak@gmail.com",
     description="A text PREprocessor for TWeets in the ITAlian language",
