@@ -2,7 +2,7 @@
 <img src="./logo.png" width="100px" align="justify"/>
 </span>
 
-# PreTwITA
+# PreTwITA – DISCONTINUED
 <code><b>PreTwITA</b></code> is an open source <b>Pre</b>processor for <b>Tw</b>eets in the <b>ITA</b>lian language written in Python. The purpose of such library is to provide the user with language-specific tools for text cleaning (i.e. the process of preparing raw text for Natural Language Processing). 
 
 ## Included features
